@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+body #root {
+  background-color: whitesmoke;
+  font-family: "Montserrat", sans-serif;
+}
+#navbar {
+  position: sticky !important;
+  top: 0;
+  z-index: 10;
+}
